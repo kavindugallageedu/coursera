@@ -1,2 +1,2 @@
 # coursera
-coursera git
+practice coursera git
